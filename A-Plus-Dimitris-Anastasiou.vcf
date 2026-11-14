@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Anastasiou;Dimitris;;;
+FN;CHARSET=UTF-8:Dimitris Anastasiou
+ORG:A Plus
+TITLE;CHARSET=UTF-8:Graphic Designer
+TEL;TYPE=CELL,VOICE:+306987031157
+EMAIL;TYPE=INTERNET:aplusbyanastasiou@gmail.com
+URL:https://aplusbyanastasiou.github.io/A-Plus-by-Anastasiou/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/aplusbyanastasiou/
+ADR;TYPE=WORK;CHARSET=UTF-8:;;;Larissa;;;Greece
+NOTE;CHARSET=UTF-8:A Plus — Graphic design. Always a plus.
+END:VCARD

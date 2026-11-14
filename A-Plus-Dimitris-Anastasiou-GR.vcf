@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Αναστασίου;Δημήτρης;;;
+FN;CHARSET=UTF-8:Δημήτρης Αναστασίου
+ORG:A Plus
+TITLE;CHARSET=UTF-8:Γραφίστας
+TEL;TYPE=CELL,VOICE:+306987031157
+EMAIL;TYPE=INTERNET:aplusbyanastasiou@gmail.com
+URL:https://aplusbyanastasiou.github.io/A-Plus-by-Anastasiou/el/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/aplusbyanastasiou/
+ADR;TYPE=WORK;CHARSET=UTF-8:;;;Λάρισα;;;Ελλάδα
+NOTE;CHARSET=UTF-8:A Plus — Γραφιστική. Πάντα ένα plus.
+END:VCARD

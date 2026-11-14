@@ -111,6 +111,7 @@ section.block{padding:clamp(72px,9vw,128px) 0}
 .channels div{display:flex;flex-direction:column;gap:4px}
 .channels a,.channels span.v{font-family:var(--mono);font-size:clamp(15px,1.6vw,19px);font-weight:700;word-break:break-all}
 .channels .mono{opacity:.75}
+.btn.save{border-color:var(--ink);color:var(--ink);align-self:flex-start;margin-top:6px}.btn.save:hover{background:var(--ink);color:var(--signal)}.channels .hint{font-size:14px;opacity:.8}
 .copy{align-self:flex-start;margin-top:6px;min-height:40px;padding:0 14px;font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;background:none;border:1.5px solid var(--ink);color:var(--ink);cursor:pointer}
 form.f{background:var(--ink);color:var(--paper);padding:clamp(22px,3vw,36px);display:flex;flex-direction:column;gap:18px}
 .f label{display:flex;flex-direction:column;gap:8px;font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
@@ -160,7 +161,8 @@ footer .small{color:var(--muted);font-size:14px;display:flex;flex-direction:colu
 <div class="channels">
 <div><span class="mono">Email</span><a href="mailto:aplusbyanastasiou@gmail.com">aplusbyanastasiou@gmail.com</a><button class="copy" type="button" data-copy="aplusbyanastasiou@gmail.com" data-done="Αντιγράφηκε">Αντιγραφή email</button></div>
 <div><span class="mono">Instagram</span><a href="https://www.instagram.com/aplusbyanastasiou/" rel="noopener">@aplusbyanastasiou</a></div>
-<div><span class="mono">Στούντιο</span><span class="v">Λάρισα</span></div></div></div>
+<div><span class="mono">Στούντιο</span><span class="v">Λάρισα</span></div>
+<div><a class="btn save" href="../A-Plus-Dimitris-Anastasiou-GR.vcf" download="A-Plus-Dimitris-Anastasiou-GR.vcf" type="text/vcard"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="4"></circle><path d="M4 21c0-4 4-6 8-6s8 2 8 6"></path></svg>Αποθήκευση επαφής</a><span class="hint">Προσθέτει τον Δημήτρη στις επαφές του κινητού σας.</span></div></div></div>
 <form class="f" novalidate data-subject="Νέο αίτημα για project" data-err="Συμπληρώστε όνομα, email και λίγα λόγια για το project.">
 <label>Ονοματεπώνυμο<input name="name" autocomplete="name" required></label>
 <label>Το email σας<input name="email" type="email" autocomplete="email" required></label>
